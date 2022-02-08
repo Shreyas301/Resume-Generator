@@ -1,0 +1,17 @@
+h1 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+h3 {
+    margin-top: 15px;
+}
+
+.myimg {
+    width: 200px;
+}
+.background {
+    background-color: rgb(207, 206, 204) ;
+}
+#cv-template {
+    display: none;
+}
